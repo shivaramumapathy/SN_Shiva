@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>column4</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-11-23 10:14:44</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d193b5c9db172200cea35d50cf96191e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>column4</sys_name>
+        <sys_package display_value="Shiva" source="x_14781_shiva">34e76bb2db122200cea35d50cf96191b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Shiva">34e76bb2db122200cea35d50cf96191b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d193b5c9db172200cea35d50cf96191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-11-23 10:17:01</sys_updated_on>
+        <table>x_14781_shiva_shiva</table>
+        <ui_policy display_value="Make Column 4 mandatory if Column 3 is not null">d053fd01db172200cea35d50cf9619c1</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

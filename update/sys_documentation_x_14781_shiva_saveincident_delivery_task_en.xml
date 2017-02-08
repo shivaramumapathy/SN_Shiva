@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="delivery_task" label="Delivery task" language="en" table="x_14781_shiva_saveincident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>delivery_task</element>
+            <help/>
+            <hint/>
+            <label>Delivery task</label>
+            <language>en</language>
+            <name>x_14781_shiva_saveincident</name>
+            <plural>Delivery tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-07 10:42:25</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>5a30cae1db232200cea35d50cf9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Delivery task</sys_name>
+            <sys_package display_value="Shiva" source="x_14781_shiva">34e76bb2db122200cea35d50cf96191b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Shiva">34e76bb2db122200cea35d50cf96191b</sys_scope>
+            <sys_update_name>sys_documentation_x_14781_shiva_saveincident_delivery_task_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-07 10:42:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

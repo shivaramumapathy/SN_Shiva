@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Enable Log</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_14781_shiva.com.shiva.enablelog</name>
+        <read_roles/>
+        <suffix>com.shiva.enablelog</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-07 09:47:05</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>89cc1967db003200cea35d50cf9619d3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_14781_shiva.com.shiva.enablelog</sys_name>
+        <sys_package display_value="Shiva" source="x_14781_shiva">34e76bb2db122200cea35d50cf96191b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Shiva">34e76bb2db122200cea35d50cf96191b</sys_scope>
+        <sys_update_name>sys_properties_89cc1967db003200cea35d50cf9619d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-07 09:48:45</sys_updated_on>
+        <type>boolean</type>
+        <value>false</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=89cc1967db003200cea35d50cf9619d3"/>
+</record_update>

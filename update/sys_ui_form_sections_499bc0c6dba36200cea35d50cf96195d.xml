@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="499bc0c6dba36200cea35d50cf96195d" sys_domain="global" table="atf_input_variable" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-08 15:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>059b0c42dbe36200cea35d50cf96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="atf_input_variable" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">499bc0c6dba36200cea35d50cf96195d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">459b0c42dbe36200cea35d50cf961988</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-08 15:29:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-08 15:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c59b0c42dbe36200cea35d50cf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="atf_input_variable" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">499bc0c6dba36200cea35d50cf96195d</sys_ui_form>
+            <sys_ui_section caption="Reference Specification" display_value="Reference Specification" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">099b0c42dbe36200cea35d50cf96198b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-08 15:29:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-08 15:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>899b0c42dbe36200cea35d50cf961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="atf_input_variable" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">499bc0c6dba36200cea35d50cf96195d</sys_ui_form>
+            <sys_ui_section caption="Choice List Specification" display_value="Choice List Specification" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">019b0c42dbe36200cea35d50cf961982</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-08 15:29:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-08 15:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d9b0c42dbe36200cea35d50cf961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="atf_input_variable" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">499bc0c6dba36200cea35d50cf96195d</sys_ui_form>
+            <sys_ui_section caption="Dependent Field" display_value="Dependent Field" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">c99b0c42dbe36200cea35d50cf961985</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-08 15:29:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-08 15:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>419b0c42dbe36200cea35d50cf961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="atf_input_variable" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">499bc0c6dba36200cea35d50cf96195d</sys_ui_form>
+            <sys_ui_section caption="Calculated Value" display_value="Calculated Value" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">419b0c42dbe36200cea35d50cf961987</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-08 15:29:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-08 15:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d9b0c42dbe36200cea35d50cf96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="atf_input_variable" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">499bc0c6dba36200cea35d50cf96195d</sys_ui_form>
+            <sys_ui_section caption="Default Value" display_value="Default Value" name="atf_input_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">c99b0c42dbe36200cea35d50cf96199a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-08 15:29:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>atf_input_variable</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-08 15:29:44</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>499bc0c6dba36200cea35d50cf96195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>atf_input_variable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Shiva" source="x_14781_shiva">34e76bb2db122200cea35d50cf96191b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Shiva">34e76bb2db122200cea35d50cf96191b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_499bc0c6dba36200cea35d50cf96195d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-08 15:29:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

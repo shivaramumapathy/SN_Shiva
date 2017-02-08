@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions/>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_14781_shiva_shiva</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description>Make Column1 mandatory</short_description>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-11-23 10:36:51</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4e98f14ddb172200cea35d50cf96193a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Make Column1 mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Shiva" source="x_14781_shiva">34e76bb2db122200cea35d50cf96191b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Shiva">34e76bb2db122200cea35d50cf96191b</sys_scope>
+        <sys_update_name>sys_data_policy2_4e98f14ddb172200cea35d50cf96193a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-11-23 10:40:34</sys_updated_on>
+    </sys_data_policy2>
+</record_update>
